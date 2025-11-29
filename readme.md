@@ -37,7 +37,7 @@ BUILDS TOOL
 Maven
 Node.js
 
- Folder Structure
+ FOLDER STRUCTURE
 
 BACKEND
 /src/main/java
